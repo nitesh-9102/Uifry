@@ -4,7 +4,7 @@ tl.from(" nav h1, nav ul li, nav button", {
   duration: 0.5,
   delay: 1,
   opacity: 0,
-  stagger: 0.15,
+  stagger: 0.35,
 });
 tl.from(".container .left h1", {
   x: -500,
