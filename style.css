@@ -1,5 +1,6 @@
 * {
   font-family: "poppins", sans-serif;
+  scroll-behavior: smooth;
 }
 nav {
   height: 60px;
