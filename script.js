@@ -62,6 +62,7 @@ gsap.from(".page-5 .container-5 .right-5 img  ", {
   },
 });
 
+// commenting
 var tl2 = gsap.timeline({
   scrollTrigger: {
     trigger: ".page-6",
